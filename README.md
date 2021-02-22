@@ -7,6 +7,7 @@ Include the following line somewhere in your php script.
 ```php
 include_once 'path/to/bitcoinTicker.php';
 ```
+--------------
 
 
 ## Available Functions:
