@@ -1,4 +1,4 @@
-# Bitcoin Ticker
+# Bitcoin PLOP
 
 bitcoinTicker.php. A PHP script that helps you grab the latest bitcoin prices (in USD) from top exchanges.
 
